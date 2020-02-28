@@ -2,4 +2,7 @@ This story is about a person named Bob. Bob is a happy person who lives a happy 
 
 Bob was born in BobTown which is in BobCountry. It is a very special country as every 10 years a Bob is born. This place is also a very mysterious place. Sometimes at night, multiple instances of Bobs can be seen roaming around a park called the heap park.
 If more than 6 Bob instances appear in the heap park, then a special phenomenon occurs in the nighttime sky called an instantiaionException. This phemonenon also happens on 4/04 of every year.
+
 This year happens to be one of the years where 6 Bob instances exist, so the instantiationException has just been thrown. This also means that today is 4/04 and our Bob is so excited. He has never witnessed this exception being thrown and can't wait to see what happens because of it. 
+
+Suddenly a giant robot lands in front of Bob. "I'm here to catch the Exception." says the giant robot, "tell me, Object, where is the 'instantiationException'?" Bob is scared, and shouts "What is this?" "Show your respect, Object!" the robot gets angry, "You are only a little Object who don't even know your Class. I could call a garbage collector to PERMANENTLY delete you if you don't assist me,Okay?" At that time, Bob starts to realize how terrible this world is...
