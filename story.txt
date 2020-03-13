@@ -7,5 +7,6 @@ This year happens to be one of the years where 6 Bob instances exist, so the ins
 
 Suddenly a giant robot lands in front of Bob. "I'm here to catch the Exception." says the giant robot, "tell me, Object, where is the 'instantiationException'?" Bob is scared, and shouts "What is this?" "Show your respect, Object!" the robot gets angry, "You are only a little Object who don't even know your Class. I could call a garbage collector to PERMANENTLY delete you if you don't assist me,Okay?" At that time, Bob starts to realize how terrible this world is...
 
+Bob did not know what to do.  He was not very well-versed in coding and was unsure how to handle the situation.  So he prayed to his god, StackOverflow, to give him assistance in this trying time.  He knew the all-powerful god would have the answers.
 
 Eventually Bob does a mystical move and causes a machine fail exception which causes the giant robot to cease to exist on the static and dynamic memory pool, and everyone lived happily every after ( all except the robot, duh ).
