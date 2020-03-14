@@ -10,3 +10,5 @@ Suddenly a giant robot lands in front of Bob. "I'm here to catch the Exception."
 Bob did not know what to do.  He was not very well-versed in coding and was unsure how to handle the situation.  So he prayed to his god, StackOverflow, to give him assistance in this trying time.  He knew the all-powerful god would have the answers.
 
 Eventually Bob does a mystical move and causes a machine fail exception which causes the giant robot to cease to exist on the static and dynamic memory pool, and everyone lived happily every after ( all except the robot, duh)
+
+-------THE END-----------
